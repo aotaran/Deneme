@@ -1,3 +1,7 @@
 Hello World!!!
 Hallo mein Freund...
+<<<<<<< HEAD
 Iyilik
+=======
+Nassin iyisin?
+>>>>>>> 796d75f1dcb33e2e980949d54e9525577b09fb8f
